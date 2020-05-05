@@ -1,0 +1,17 @@
+{
+  "name": "demo",
+  "version": "1.0.1",
+  "description": "This is my first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run index.js"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "guofa",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}

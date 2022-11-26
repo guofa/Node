@@ -1,3 +1,4 @@
+Node.js学习笔记
 第一章：Node的基础核心模块
 1.Node介绍
 	Node叫NodeJS或Node.JS,Node是一个JavaScript运行环境。实际上它是对Google V8引擎进行了封装。官网介绍node:一个搭建在ChromeJavaScript运行
